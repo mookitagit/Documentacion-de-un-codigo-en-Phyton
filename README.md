@@ -39,4 +39,21 @@ En este repositorio se encuentran las primeras documentaciones de algunos codigo
 #Entradas en Python tipo INT: DEFINICION: Esta función nos permite obtener un número entero a partir de la información que ingresa el usuario.
                               SINTAXIS: entrada = int(input("texto opcional"))
                               EJEMPLO: valor = int(input("Ingrese un número del 1 al 100: "))
-                              
+
+#if en python: DEFINICION: Es una estructura de control que permite ejecutar un bloque de código si una condición es verdadera.
+               SINTAXIS: if condición:
+                           código a ejecutar si la condición es verdadera
+               EJEMPLO: edad = 20
+                        if edad >= 18:
+                          print("Eres mayor de edad")
+
+#else en python: DEFINICIÓN: Se usa junto con if para ejecutar un bloque de código cuando la condición del if es falsa
+                 SINTAXIS: if condición:
+                             código a ejecutar si la condición es verdadera
+                           else:
+                             código a ejecutar si la condición es falsa
+                 EJEMPLO: edad = 16
+                          if edad >=18:
+                            print("Eres mayor de edad")
+                          else:
+                            print("Eres menor de edad")
