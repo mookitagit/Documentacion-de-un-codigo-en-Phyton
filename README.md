@@ -30,7 +30,7 @@ En este repositorio se encuentran las primeras documentaciones de algunos codigo
                       EJEMPLO: valor_1 = 8
                                valor_2 = 5
                                resultado = valor_1 + valor_2
-# Multiplicación en Python: Es una operación aritmética que se realiza usando el operador *,
+# multiplicacion en python: es una operacion aritmetica que se realiza usando el operador * ,
 el cual permite calcular el producto de dos números o repetir elementos en cadenas y listas.
                      SINTAXIS:resultado = valor1 * valor2
                       EJEMPLO:  numero1 = 6 numero2 = 4
@@ -46,6 +46,7 @@ el cual permite calcular el producto de dos números o repetir elementos en cade
                             num2 = 3
                   resultado = num1 / num2
                    print("División normal:", resultado)
+
                    
 #Append en Python: DEFINICION: Con el método append se puede añadir un elemento al final de una lista ya existente.
                    SINTAXIS: lista.append(elemento)
