@@ -41,15 +41,17 @@ el cual permite calcular el producto de dos números o repetir elementos en cade
                          y devuelve el cociente de dos números.
 Python también proporciona otros operadores de división como // para división entera y % para el residuo
 
-             SINTAXIS: resultado = numero1 / numero2  # División normal (devuelve float)
+   SINTAXIS: resultado = numero1 / numero2  # División normal (devuelve float)
                  resultado_entero = numero1 // numero2  # División entera (descarta decimales)
                   residuo = numero1 % numero2  # Módulo (residuo de la división)
 
-               EJEMPLO:  # División normal
-                                 num1 = 10
-                                  num2 = 3
-                        resultado = num1 / num2
-                    print("División normal:", resultado)
+             # División normal
+num1 = 10
+num2 = 3
+resultado = num1 / num2
+print("División normal:", resultado)
+       
+
                                
                                
 #Append en Python: DEFINICION: Con el método append se puede añadir un elemento al final de una lista ya existente.
