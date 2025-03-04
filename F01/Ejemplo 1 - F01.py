@@ -11,8 +11,8 @@ numero2 = 3 # Se asigna el valor de 3 a la variable "numero2"
 
 suma = numero1 + numero2     # Suma de terminos almacaenados en la variable numero1 y numero2
 resta = numero1 - numero2    # Resta de terminos almacaenados en la variable numero1 y numero2
-multiplicacion = numero1 * numero2  
-division = numero1 / numero2
+multiplicacion = numero1 * numero2 # Multiplica los valores almacenados en numero1 y numero2, y el resultado se guarda en la variable multiplicacion.
+division = numero1 / numero2 #Divide el valor de numero1 entre numero2, y el resultado se almacena en la variable division.
 
 
 print("Suma:", suma)
