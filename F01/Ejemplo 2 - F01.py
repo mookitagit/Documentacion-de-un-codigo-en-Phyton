@@ -3,7 +3,8 @@
 # ESTE CÓDIGO REALIZA ..... ETC ETC.
 
 # 2025 / 03/ 03 - V. 1. 0. 0 - FRUTAS
-frutas = ["manzana", "plátano", "naranja"]
+
+frutas = ["manzana", "plátano", "naranja"] #Aqui se crea una lista que contiene 3 elementos 
 
 
 frutas.append("pera")
