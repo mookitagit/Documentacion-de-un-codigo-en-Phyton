@@ -15,9 +15,9 @@ multiplicacion = numero1 * numero2 # Multiplica los valores almacenados en numer
 division = numero1 / numero2 #Divide el valor de numero1 entre numero2, y el resultado se almacena en la variable division.
 
 
-print("Suma:", suma)
-print("Resta:", resta)
-print("Multiplicación:", multiplicacion)
-print("División:", division)
+print("Suma:", suma) # Muestra en pantalla el texto "Suma:" seguido del valor almacenado en la variable suma.
+print("Resta:", resta) #Muestra "Resta:" seguido del valor de la variable resta.
+print("Multiplicación:", multiplicacion) #Muestra "Multiplicación:" seguido del valor de multiplicacion
+print("División:", division) #Muestra "División:" seguido del valor de division
 
 # TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González (Mark0-9843)
