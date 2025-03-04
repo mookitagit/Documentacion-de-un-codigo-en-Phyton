@@ -45,7 +45,7 @@ Python también proporciona otros operadores de división como // para división
                  resultado_entero = numero1 // numero2  # División entera (descarta decimales)
                   residuo = numero1 % numero2  # Módulo (residuo de la división)
 
-             # División normal
+  # División normal
 num1 = 10
 num2 = 3
 resultado = num1 / num2
