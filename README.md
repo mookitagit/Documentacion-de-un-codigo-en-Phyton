@@ -38,14 +38,13 @@ En este repositorio se encuentran las primeras documentaciones de algunos codigo
                                      numero2 = 4
                                      resultado = numero1 * numero2
                
-#La división en Python: DEFINICION: Es una operación aritmética que se realiza con el operador (/)  y devuelve el     cociente de dos números. Python también proporciona otros operadores de división como // para división entera y % para el residuo.
-                     SINTAXIS: resultado = numero1 / numero2  # División normal (devuelve float)
-               resultado entero = numero1 // numero2  # División entera (descarta decimales)
-                      residuo = numero1 % numero2  # Módulo (residuo de la división) 				
-                      # División normal
-                      EJEMPLO: num1 = 10
-                            num2 = 3
-                  resultado = num1 / num2
+#La división en Python: DEFINICION: Es una operación aritmética que se realiza con el operador (/)  y devuelve el                                             cociente de dos números. Python también proporciona otros operadores de división como                                     // para división entera y % para el residuo.
+                        SINTAXIS: resultado = numero1 / numero2  # División normal (devuelve float)
+                                  resultado entero = numero1 // numero2  # División entera (descarta decimales)
+                                  residuo = numero1 % numero2  # Módulo (residuo de la división) 
+                        EJEMPLO: num1 = 10
+                                 num2 = 3
+                                 resultado = num1 / num2
                    
 #Append en Python: DEFINICION: Con el método append se puede añadir un elemento al final de una lista ya existente.
                    SINTAXIS: lista.append(elemento)
