@@ -72,3 +72,10 @@ En este repositorio se encuentran las primeras documentaciones de algunos codigo
                             print("Eres mayor de edad")
                           else:
                             print("Eres menor de edad")
+
+#for en python: DEFINICIÓN: Es una estructura de control que permite iterar sobre una secuencia (listas, tuplas, cadenas, etc) y ejecutar un bloque de codigo varias veces
+                SINTAXIS: for variable in secuencia:
+                            codigo a ejecutar en cada iteración
+                EJEMPLO: frutas = ["manzana", "platano", "naranja"]
+                         for frutas in frutas:
+                           print("Tengo una", fruta)
