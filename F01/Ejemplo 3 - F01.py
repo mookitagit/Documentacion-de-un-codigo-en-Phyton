@@ -10,4 +10,4 @@ if numero % 2 == 0:
     print("El número es par") # si la condicion if anterior se cumple numero es divisible entre 2 y se imprime "El número es par".
 else:
     print("El número es impar")
-# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González ()
+# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González (Mark0-9843)
