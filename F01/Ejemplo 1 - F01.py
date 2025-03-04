@@ -6,7 +6,7 @@
 
 
 numero1 = 5 # Se asigna el numero 5 a la variable "numero1"
-numero2 = 3
+numero2 = 3 # Se asigna el valor de 3 a la variable "numero2"
 
 
 suma = numero1 + numero2     # Suma de terminos almacaenados en la variable numero1 y numero2
