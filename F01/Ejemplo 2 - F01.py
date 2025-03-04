@@ -15,4 +15,4 @@ print("Lista de frutas:", frutas)  # En esta parte del código se imprime el tex
 
 for fruta in frutas: #Esto es un bucle for que va a recorrer cada elementos de la lista frutas
     print("Tengo una", fruta) #En cada iteracion, fruta tomará el valor de un elemento de la lista frutas y se imprimirá "Tengo una" seguido del nombre de la fruta.
-# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González (Mark0-9843)
+# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro(lenoxzy)  /  •	Marco Antonio Morales González (Mark0-9843)
