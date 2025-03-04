@@ -30,7 +30,7 @@ En este repositorio se encuentran las primeras documentaciones de algunos codigo
                       EJEMPLO: valor_1 = 8
                                valor_2 = 5
                                resultado = valor_1 + valor_2
-# multiplicacion en python: es una operacion aritmetica que se realiza usando el operador * ,
+multiplicacion en python: es una operacion aritmetica que se realiza usando el operador * ,
 el cual permite calcular el producto de dos números o repetir elementos en cadenas y listas.
                      SINTAXIS:resultado = valor1 * valor2
                       EJEMPLO:  numero1 = 6 numero2 = 4
