@@ -1,6 +1,6 @@
 # TEAM markoboquiñechainajesu
 
-# ESTE CÓDIGO REALIZA ..... ETC ETC.
+# ESTE CÓDIGO REALIZA LAS OPERERACIONES BASICAS (SUMA, RESTA, MULTIPLICACION Y DIVISION) DE DOS TERMINOS CUYO VALOR ES ASIGNADO EN EL MISMO CÓDIGO.
 
 # 2025 / 03/ 03 - V. 1. 0. 0 - OPERACIONES BASICAS
 
@@ -9,9 +9,9 @@ numero1 = 5 # Se asigna el numero 5 a la variable "numero1"
 numero2 = 3
 
 
-suma = numero1 + numero2
-resta = numero1 - numero2
-multiplicacion = numero1 * numero2
+suma = numero1 + numero2     # Suma de terminos almacaenados en la variable numero1 y numero2
+resta = numero1 - numero2    # Resta de terminos almacaenados en la variable numero1 y numero2
+multiplicacion = numero1 * numero2  
 division = numero1 / numero2
 
 
@@ -20,4 +20,4 @@ print("Resta:", resta)
 print("Multiplicación:", multiplicacion)
 print("División:", division)
 
-# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González ()
+# TRABAJARON: •	Yair Youssef Guzmán Figueroa (Youssef60545)  /  •	José de Jesús Ibarra Guzmán (mookitagit)  /  •	Omar Boquiño Navarro()  /  •	Marco Antonio Morales González (Mark0-9843)
